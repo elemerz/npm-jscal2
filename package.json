@@ -1,0 +1,17 @@
+{
+  "name": "jscal2",
+  "version": "0.0.2",
+  "description": "An experimental npm port of Mihai Bazon's JSCal2 implementation.",
+  "license": "MIT",
+  "repository": "elemerz/npm-jscal2",
+  "main": "src/js/jscal2.js",
+  "keywords": [
+    "datepicker",
+    "calendar",
+    "Bazon",
+    "jscal",
+    "jscal2",
+    "tiny",
+    "small"
+  ]
+}

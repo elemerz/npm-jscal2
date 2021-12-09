@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "module": "AMD",
+    "allowJs": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "typeRoots": ["./typings", "./node_modules/@types/"],
+    "noImplicitAny": false
+  }
+}
