@@ -1,6 +1,6 @@
 {
   "name": "jscal2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An experimental npm port of Mihai Bazon's JSCal2 implementation.",
   "license": "MIT",
   "repository": "elemerz/npm-jscal2",
